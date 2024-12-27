@@ -2,7 +2,7 @@
 
 	{
 	    "class": "channelvideo",
-	    "id": 0,
+	    "id": 10000,
 	    "autoplay": true,
 	    "loop": true,
 	    "finder-user-name": "sph4huAsaTrji5u",
@@ -12,7 +12,7 @@
 	{
 
 	 "class": "channelvideo",
-	    "id": 0,
+	    "id": 10001,
 	    "autoplay": true,
 	    "loop": true,
 	    "finder-user-name": "sph4huAsaTrji5u",
